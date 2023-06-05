@@ -16,24 +16,26 @@
   "plugins": [
     "3-ba", "-highlight","toggle-chapters","codeblock-filename","sectionx","splitter","-search","-lunr","search-pro","theme-default","prism","prism-themes","theme-comscore","include","favicon","anchors","tbfed-pagefooter","hide-element"
   ],
-    "hide-element": {
-            "elements": [".gitbook-link"]
-        },
-    "3-ba": {
-           "token": "22ca42ea673f84d91b7dc1fe32f07544"
-       },
-    "tbfed-pagefooter": {
-    "copyright":"Copyright &copy hankbook.cn 2020",
-    "modify_label": "该文件修订时间：",
-    "modify_format": "YYYY-MM-DD HH:mm:ss"
-    },
-    "search-pro": {
-        "cutWordLib": "nodejieba",
-        "defineWord" : ["Gitbook Use"]
-    },
-    "prism": {
-        "css": [
-            "prism-themes/themes/prism-ghcolors.css"
-        ]
-    }
-    }
+  "pluginsConfig": {
+      "hide-element": {
+              "elements": [".gitbook-link"]
+          },
+      "3-ba": {
+             "token": "22ca42ea673f84d91b7dc1fe32f07544"
+         },
+      "tbfed-pagefooter": {
+      "copyright":"Copyright &copy hankbook.cn 2020",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+      },
+      "search-pro": {
+          "cutWordLib": "nodejieba",
+          "defineWord" : ["Gitbook Use"]
+      },
+      "prism": {
+          "css": [
+              "prism-themes/themes/prism-ghcolors.css"
+          ]
+      }
+      }
+  }
