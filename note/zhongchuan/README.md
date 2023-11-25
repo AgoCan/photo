@@ -1,6 +1,9 @@
 # 【中国传媒大学】
 
 ## 摄影艺术创作 郭艳民
+
+[跳转b站](https://space.bilibili.com/95503301/channel/collectiondetail?sid=3862)
+
 拍照，需要注意 支点的作用，减少头重脚轻的不平衡感
 
 1. [构图](/note/zhongchuan/1-1-composition.md)

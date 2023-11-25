@@ -20,3 +20,5 @@
     * [场景](/note/zhongchuan/1-6-scene.md)
     * [光影](/note/zhongchuan/1-7-shadow.md)
     * [色彩](/note/zhongchuan/1-8-colour.md)
+
+- 中传的b站视频 [跳转b站](https://space.bilibili.com/95503301/channel/collectiondetail?sid=3862)
